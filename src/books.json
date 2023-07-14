@@ -1,0 +1,23 @@
+[
+    {
+      "image":
+        "https://m.media-amazon.com/images/I/71sBtM3Yi5L._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "Power of your Subconsious Mind",
+      "author": "Joseph Murphy",
+      "price": "200"
+    },
+    {
+      "image":
+        "https://m.media-amazon.com/images/I/81BE7eeKzAL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "Rich Dada Poor Dad",
+      "author": " Robert T. Kiyosaki ",
+      "price": "400"
+    },
+    {
+      "image":
+        "https://m.media-amazon.com/images/I/411yaMigwbL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "Power",
+      "author": "  Robert Greene ",
+      "price": "500"
+    }
+  ]
