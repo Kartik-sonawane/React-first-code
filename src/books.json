@@ -26,5 +26,12 @@
         "title": "Think and Grow Rich",
         "author": "Napoleon Hill",
         "price": "160"
+      },
+      {
+        "image":
+          "https://m.media-amazon.com/images/I/61ZPDQOjw-L._AC_UY327_QL65_.jpg",
+        "title": "Do It Today",
+        "author": "Darius Foroux",
+        "price": "190"
       }
   ]
